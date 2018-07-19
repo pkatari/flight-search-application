@@ -24,6 +24,8 @@ In the project directory, Perform following steps:
 
 It will run the tests.
 
+---> Few of the Unit Tests are written. Like for actions,reducers and header component(components/header)
+
 ## Application Details
 
   -----> Initially,all the flights are displayed in the list.
