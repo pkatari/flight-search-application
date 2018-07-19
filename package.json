@@ -1,5 +1,5 @@
 {
-  "name": "thoughtworks-flight-search",
+  "name": "flight-search-application",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

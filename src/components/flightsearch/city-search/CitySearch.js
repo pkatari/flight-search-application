@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { getCityDetails } from '../../../actions/flight-search-action';
 
-class CitySearch extends Component {
+export class CitySearch extends Component {
     
     onCityClick = () => {
         this.props.getCityDetails();

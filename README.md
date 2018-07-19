@@ -3,6 +3,7 @@ Flight Search Application is created using React js,Redux.
 
 ---> The application is responsive on ipad, iphone, android. 
 ---> There is also `Refine Flight Search` as per price. Flights will be displayed based on the price selected by user.
+
 ---> `Validations` are also applied on the form.
 
 ## Available Run Steps
