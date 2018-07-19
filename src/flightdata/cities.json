@@ -1,0 +1,54 @@
+[
+	{
+	  "code": "PNQ",
+	  "name": "Pune"
+	},
+	{
+	  "code": "DEL",
+	  "name": "Delhi"
+	},
+	{
+	  "code": "MUMB",
+	  "name": "Mumbai"
+	},
+	{
+	  "code": "KOLK",
+	  "name": "Kolkata"
+	},
+	{
+	  "code": "BLR",
+	  "name": "Bengaluru"
+	},
+	{
+	  "code": "LON",
+	  "name": "London"
+	},
+	{
+	  "code": "SWITZ",
+	  "name": "Switzerland"
+	},
+	{
+	  "code": "GREEC",
+	  "name": "Greece"
+	},
+	{
+	  "code": "NYORK",
+	  "name": "New York"
+	},
+	{
+	  "code": "AUST",
+	  "name": "Australia"
+	},
+	{
+	  "code": "AUST",
+	  "name": "Australia"
+	},
+	{
+	  "code": "SWED",
+	  "name": "Sweden"
+	},
+	{
+	  "code": "HYD",
+	  "name": "Hyderabad"
+	}
+  ]

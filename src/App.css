@@ -1,0 +1,43 @@
+html {
+  background: url("./assets/images/Lead-London-Eye.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+.flight-section {
+  display: flex;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  margin: 0px 10px; }
+
+select {
+  padding: 10px;
+  width: 100%;
+  margin-top: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 18px;
+  background: white; }
+
+.input {
+  margin-top: 6px;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 18px;
+  margin-bottom: 12px; }
+
+.error {
+  border: 2px solid red; }
+
+.search-error {
+  display: block;
+  width: 250px;
+  margin-bottom: 17px;
+  color: red; }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .flight-section {
+    display: block;
+    margin: 5px; } }

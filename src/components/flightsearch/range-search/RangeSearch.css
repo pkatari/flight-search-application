@@ -1,0 +1,17 @@
+.search-form__price-range {
+  border: 1px solid black;
+  padding: 12px 34px 36px 15px;
+  border-radius: 5px; }
+  .search-form__price-range .price-range__label {
+    margin-bottom: 30px;
+    font-size: 15px;
+    color: #000;
+    font-weight: bolder; }
+  .search-form__price-range .input-range__label {
+    color: black;
+    font-size: 15px;
+    font-weight: bold; }
+  .search-form__price-range .input-range__track {
+    background: #795548; }
+  .search-form__price-range .input-range__track--active {
+    background: #3f51b5; }
