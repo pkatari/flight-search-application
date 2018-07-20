@@ -77,17 +77,17 @@ It will run the tests.
 
 ##### Validations on Search Form
 
-`If search form contains invalid result, then error will be displayed above search button
+`If search form contains invalid result, then error will be displayed below search button
 
 # Origin city is blank
-   --> If Origin City is blank, `Please Enter Origin City` error will be displayed above search button.
+   --> If Origin City is blank, `Please Enter Origin City` error will be displayed below search button.
 
 # Destination city is blank
-   --> If Destination City is blank, `Please Enter Destination City` error will be displayed above search button.
+   --> If Destination City is blank, `Please Enter Destination City` error will be displayed below search button.
 
 # Origin and Destination City are same
-   --> If Origin and Destination city is same, `The Origin and Destination city cannot be same.Please re-type` error will be displayed above search button.
+   --> If Origin and Destination city is same, `The Origin and Destination city cannot be same.Please re-type` error will be displayed below search button.
 
 # Departure Date is greater than return date
-   --> If Departure date is greater than return date, `Return date should be greater than destination Date` error will be displayed above search button.
+   --> If Departure date is greater than return date, `Return date should be greater than destination Date` error will be displayed below search button.
 
